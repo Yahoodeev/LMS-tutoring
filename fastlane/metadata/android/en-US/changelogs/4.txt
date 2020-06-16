@@ -1,0 +1,11 @@
+Improved
+
+• Don't recreate webiew when orientation changes.
+• Add option to control status bar visibility; normal, blend with toolbar, or hidden.
+• Add option to control navigation bar visibility; normal, blend with toolbar, or hidden.
+• Opt-out of WebView metrics.
+
+Fixed
+
+• No need to fade out progress animation.
+• Use device's display density to properly zoom webview.

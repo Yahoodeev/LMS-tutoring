@@ -1,0 +1,11 @@
+Improved
+
+• If page fails to load, try to discover LMS server first, then show settings page if this fails.
+• Add ability to zoom webview.
+• Show spinner if launched with no network connection.
+• If device has a cutout then don't hide status bar.
+• Use JSON port number from service discovery.
+
+Fixed
+
+• Use correct tag value for log messages.

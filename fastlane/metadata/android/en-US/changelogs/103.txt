@@ -1,0 +1,4 @@
+Fixed
+
+• Pass all URLs (apart from settings, quit, and launch player) onto user's browser.
+

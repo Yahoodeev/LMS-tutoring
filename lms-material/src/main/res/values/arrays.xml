@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="statusbar">
+        <item>Visible (standard)</item>
+        <item>Visible (blended)</item>
+        <item>Hidden</item>
+    </string-array>
+    <string-array name="statusbarAlias">
+        <item>visible</item>
+        <item>blend</item>
+        <item>hidden</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>Automatic</item>
+        <item>Portrait</item>
+        <item>Landscape</item>
+    </string-array>
+    <string-array name="orientationAlias">
+        <item>auto</item>
+        <item>portrait</item>
+        <item>landscape</item>
+    </string-array>
+    <string-array name="oncall">
+        <item>Do nothing</item>
+        <item>Mute all activeplayers</item>
+        <item>Mute current player</item>
+        <item>Pause all active players</item>
+        <item>Pause current player</item>
+    </string-array>
+    <string-array name="oncallAlias">
+        <item>nothing</item>
+        <item>muteall</item>
+        <item>muteecurrent</item>
+        <item>pauseall</item>
+        <item>pausecurrent</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+Improved
+
+• Added download support (requires Material Skin 2.6.0, or newer).
+
+Fixed
+
+• Show default player name / ID in preferences if set.
+• Use Uri.Builder to construct connection URL.
+• Fix stopping of notification service.

@@ -1,0 +1,7 @@
+Improved
+
+• Allow manual entry of server address and port.
+
+Fixed
+
+• Correctly handle visibility of navbar when statubar is hidden.
